@@ -78,7 +78,7 @@ http://localhost:8080/article/pager?pageIndex=1
     
 十、Iterable
 
-十一、数据库有关sql.txt
+十一、数据库有关sql.txt，在resource目录下
 
 1、创建库，创建表，插入数据
 
